@@ -1,0 +1,54 @@
+Name - Sandesh Ranbhor
+Selenium Testing Answer Sheet
+3 years of experience in Manual Testing
+
+1- d
+2- d
+3- e
+4- c
+5- a
+6- e
+7- b
+8- c
+9- b
+10- b
+11- b
+12- a
+13- d wrong
+14- a 
+15- a wrong
+16- a
+17- b 
+18- a wrong
+19- b
+20- d
+21- a
+22- b - wrong
+23- b - wrong
+24- b
+25- a
+26- b
+27- c
+28- b
+29- b
+30- b - wrong
+31- e
+32- c
+33- d
+34- a
+35- d
+36- b wrong
+37- c
+38- a
+39- d
+40- c wrong
+41- c wrong
+42- b
+43- a
+44- a
+45- DataProvider
+46- 
+47- 
+48- d
+49- c
+50- b
